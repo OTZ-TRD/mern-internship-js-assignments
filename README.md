@@ -1,12 +1,12 @@
 # mern-internship-js-assignments
 
-#Questions
+**Questions**
 
 1. Check if a number is odd or even in JavaScript.
 2. Check if input variable is a number or not
 3. Find the largest of three number
 4. Check if a triangle is equilateral, scalene, or isosceles
-5. Find check if a year is leap year or not\
+5. Find check if a year is leap year or not 
 6. Find the grade for input marks
     Function `findGrade()` to find the grade of the student based on the input marks.
 
@@ -24,4 +24,4 @@
        -> Else if month is equal to 4, 6, 9 or 11 print “30 days”.
        -> Else print “31 days”.
          
-           function isLeapYear(ye
+           
